@@ -8,4 +8,5 @@ package com.hgz.study.cloudnote;
  * @Modified by:
  */
 public class Main {
+
 }
